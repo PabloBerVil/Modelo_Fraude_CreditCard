@@ -1,2 +1,2 @@
 # Modelo_Fraude_CreditCard
-Crecion modelo IA para detectar fraudes en Python
+Simple IA model creation to detect credit cards fraud using Random Forest
